@@ -1,4 +1,4 @@
-# Object-Oriented Programming (OOP) in JavaScript — Detailed Notes
+# Object-Oriented Programming (OOP) in JavaScript
 
 > A detailed OOP study note focused on JavaScript's object model, prototypes, classes, inheritance, encapsulation, polymorphism, and practical patterns.
 
