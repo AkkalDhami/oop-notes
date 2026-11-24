@@ -6,7 +6,7 @@ A collection of detailed notes on **Object-Oriented Programming (OOP)** across m
 
 | Language | Notes |
 | --- | --- |
-| C++ | [OOP in C++](./oop-in-cpp-note.md) |
+| C++ | [OOP in C++](./oop-in-cpp.md) |
 | Java | [OOP in Java](./oop-in-java.md) |
 | JavaScript | [OOP in JavaScript](./oop-in-javascript.md) |
 | TypeScript | [OOP in TypeScript](./oop-in-typescript.md) |
